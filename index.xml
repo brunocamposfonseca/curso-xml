@@ -1,0 +1,25 @@
+<?xml version=""1.0 encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="./style.css"?>
+<!-- nota fiscal eletrônica -->
+<CATALOGO>
+    <PRODUTOS>
+        <UNI>
+            <TITULO>Maçã 2KG</TITULO>
+            <PRECO>R$ 12,99</PRECO>
+            <NUMERACAO>0938461789</NUMERACAO>
+        </UNI>
+        <UNI>
+            <TITULO>Carne Coxão Duro 5KG</TITULO>
+            <PRECO>R$ 31,99</PRECO>
+            <NUMERACAO>5629846108</NUMERACAO>
+        </UNI>
+        <UNI>
+            <TITULO>Óleo de oliva 1L</TITULO>
+            <PRECO>R$ 4,90</PRECO>
+            <NUMERACAO>4937501938</NUMERACAO>
+        </UNI>
+    </PRODUTOS>
+    <DESCRICAO>
+        <PRECOTOTAL>R$ 49,88</PRECOTOTAL>
+    </DESCRICAO>
+</CATALOGO>
